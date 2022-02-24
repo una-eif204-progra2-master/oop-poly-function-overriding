@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include "Animal.h"
-#include "Human.h"
+#include "Cat.h"
 using namespace std;
 
 int main() {
@@ -17,8 +17,8 @@ int main() {
     Animal animal = Animal();
     animal.display();
 
-    Human human = Human();
-    human.display();
+    Cat cat = Cat();
+    cat.display();
 
     return 0;
 }

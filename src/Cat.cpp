@@ -5,10 +5,10 @@
 // Created by Maikol Guzman Alan on 2/24/22.
 //
 
-#include "Human.h"
+#include "Cat.h"
 #include <iostream>
 using namespace std;
 
-void Human::display() {
+void Cat::display() {
     cout<<"Walking ..."<<endl;
 }
