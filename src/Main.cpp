@@ -11,8 +11,6 @@
 using namespace std;
 
 int main() {
-    // Hola Mike
-    // Hola Estudiantes
     cout << "Welcome to the mike.education!" << endl;  // display message
     cout << "Polymorphism Compile-time - [Function Overriding]\n" << endl;  // display message
 
